@@ -139,10 +139,10 @@ To run the Tactical Dashboard locally on your machine:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/username/ARS-Command-Center.git](https://github.com/username/ARS-Command-Center.git)
+git clone [https://github.com/RazerArdi/Military-Aircraft-Detection](https://github.com/RazerArdi/Military-Aircraft-Detection
 
 # 2. Navigate to directory
-cd ARS-Command-Center
+cd ...
 
 # 3. Install dependencies
 pip install -r requirements.txt
