@@ -64,7 +64,7 @@ This project is submitted to fulfill the **Final Practicum Assignment (UAP)** fo
 | **1.** | **Pemilihan Topik**     | **Data Citra (Image Data)**. Topik: Klasifikasi Pesawat Militer (Aerial Reconnaissance).              | ✅     |
 | **2.** | **Pengumpulan Dataset** | Dataset berjumlah **> 15,000 gambar**. Sumber: Kaggle Military Aircraft Dataset & Open Defense Repo. | ✅     |
 | **3.** | **Implementasi Model**  | - **Base:** Custom CNN (Non-Pretrained)<br>- **Pretrained 1:** MobileNetV2 (Transfer Learning)<br>- **Pretrained 2:** EfficientNetB0 (Transfer Learning) | ✅     |
-| **4.** | **Evaluasi & Analisis** | Evaluasi mencakup Accuracy, F1-Score, Grafik Loss, dan Confusion Matrix. (Lihat bagian [Benchmarks](https://www.google.com/search?q=%23-comparative-results)) | ✅     |
+| **4.** | **Evaluasi & Analisis** | Evaluasi mencakup Accuracy, F1-Score, Grafik Loss, dan Confusion Matrix. (Lihat bagian [Benchmarks](#-comparative-results)) | ✅     |
 | **5.** | **Sistem Website**      | **Streamlit Web App** (Local & Cloud).<br>Fitur: Input Gambar/Video, Real-time Inference, Tactical HUD.<br>🔗 **[Live Demo](hhttps://huggingface.co/spaces/SlRazer/MLPrak)** | ✅     |
 | **6.** | **Dokumentasi**         | Repository GitHub terstruktur dengan source code, `.ipynb`, dataset, dan dokumentasi lengkap.        | ✅     |
 
