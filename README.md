@@ -139,7 +139,7 @@ To run the Tactical Dashboard locally on your machine:
 
 ```bash
 # 1. Clone the repository
-git clone [https://github.com/RazerArdi/Military-Aircraft-Detection](https://github.com/RazerArdi/Military-Aircraft-Detection
+git clone [https://github.com/RazerArdi/Military-Aircraft-Detection](https://github.com/RazerArdi/Military-Aircraft-Detection)
 
 # 2. Navigate to directory
 cd ...
