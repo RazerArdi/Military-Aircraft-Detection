@@ -1,0 +1,4 @@
+Model,Size (MB),Inference Time (ms/img)
+Custom CNN,299.14,4.99
+MobileNetV2,24.67,5.31
+EfficientNetB0,39.7,5.38
