@@ -9,7 +9,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-Military%20Aircraft%20(15k+)-00D4FF?style=for-the-badge&logo=kaggle)
 ![Language](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**[Live Deployment](https://huggingface.co/spaces/SlRazer/AirPrak)** • **[Methodology](#-methodology)** • **[Benchmarks](#-comparative-results)** • **[Assessment](#-umm-laboratory-assessment)**
+**[Live Deployment](hhttps://huggingface.co/spaces/SlRazer/MLPrak)** • **[Methodology](#-methodology)** • **[Benchmarks](#-comparative-results)** • **[Assessment](#-umm-laboratory-assessment)**
 
 <br>
 
@@ -65,7 +65,7 @@ This project is submitted to fulfill the **Final Practicum Assignment (UAP)** fo
 | **2.** | **Pengumpulan Dataset** | Dataset berjumlah **> 15,000 gambar**. Sumber: Kaggle Military Aircraft Dataset & Open Defense Repo. | ✅     |
 | **3.** | **Implementasi Model**  | - **Base:** Custom CNN (Non-Pretrained)<br>- **Pretrained 1:** MobileNetV2 (Transfer Learning)<br>- **Pretrained 2:** EfficientNetB0 (Transfer Learning) | ✅     |
 | **4.** | **Evaluasi & Analisis** | Evaluasi mencakup Accuracy, F1-Score, Grafik Loss, dan Confusion Matrix. (Lihat bagian [Benchmarks](https://www.google.com/search?q=%23-comparative-results)) | ✅     |
-| **5.** | **Sistem Website**      | **Streamlit Web App** (Local & Cloud).<br>Fitur: Input Gambar/Video, Real-time Inference, Tactical HUD.<br>🔗 **[Live Demo](https://huggingface.co/spaces/SlRazer/AirPrak)** | ✅     |
+| **5.** | **Sistem Website**      | **Streamlit Web App** (Local & Cloud).<br>Fitur: Input Gambar/Video, Real-time Inference, Tactical HUD.<br>🔗 **[Live Demo](hhttps://huggingface.co/spaces/SlRazer/MLPrak)** | ✅     |
 | **6.** | **Dokumentasi**         | Repository GitHub terstruktur dengan source code, `.ipynb`, dataset, dan dokumentasi lengkap.        | ✅     |
 
 
