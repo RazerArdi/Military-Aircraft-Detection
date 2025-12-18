@@ -9,7 +9,7 @@
 ![Dataset](https://img.shields.io/badge/Dataset-Military%20Aircraft%20(15k+)-00D4FF?style=for-the-badge&logo=kaggle)
 ![Language](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**[Live Deployment](hhttps://huggingface.co/spaces/SlRazer/MLPrak)** • **[Methodology](#-methodology)** • **[Benchmarks](#-comparative-results)** • **[Assessment](#-umm-laboratory-assessment)**
+**[Live Deployment](https://huggingface.co/spaces/SlRazer/MLPrak)** • **[Methodology](#-methodology)** • **[Benchmarks](#-comparative-results)** • **[Assessment](#-umm-laboratory-assessment)**
 
 <br>
 
