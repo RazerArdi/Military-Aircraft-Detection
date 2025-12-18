@@ -216,10 +216,10 @@ If you use this code, data analysis, or the Tactical Dashboard in your research 
 ---
 
 <div align="center">
+
 **Developed by Bayu Ardiyansyah**
 
 Informatics Department • Universitas Muhammadiyah Malang
-
 
 © 2025 ARS Project
 
