@@ -24,6 +24,25 @@
 
 This project implements a multi-architecture approach to benchmark the performance of a **Custom Convolutional Neural Network (CNN)** built from scratch against state-of-the-art Transfer Learning architectures (**MobileNetV2** and **EfficientNetB0**). The study focuses on finding the optimal trade-off between classification accuracy, model size, and inference latency for deployment on tactical interfaces.
 
+## 📘 Dataset: Military Aircraft Detection (96 Classes)
+
+This dataset is built for **fine-grained object detection** of military aircraft.  It covers **96 aircraft types**, with some variants merged due to very similar airframes or external features.
+
+
+| **Category**              | **Aircraft Types**                                                                                                                                                                                                                                                                                                                                 |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Attack & Bomber**        | A-10, B-1, B-2, B-21, B-52, F-117, F-14, F-15, F-16, F-2, F-22, F-35, F-4, F/A-18, F-CK-1, J-10, J-20, J-35, J-36, J-50, JAS-39, JF-17, JH-7, KAAN, KF-21, Mirage2000, Rafale, SR-71, Su-24, Su-25, Su-34, Su-47, Su-57, Tejas, Tornado, Tu-160, Tu-22M, Tu-95, U-2, Vulcan, X-29, X-32, XB-70, XQ-58, YF-23 |
+| **Transport & Cargo**      | A-400M, AG-600, An-124, An-22, An-225, An-72, Be-200, C-1, C-130, C-17, C-2, C-390, C-5, CL-415, Il-76, KC-135, P-3, US-2, Y-20                                                                                                                                                                                                                     |
+| **Helicopters**            | AH-64, CH-47, CH-53, Ka-27, Ka-52, Mi-24, Mi-26, Mi-28, Mi-8, UH-60, WZ-10, WZ-9, Z-10, Z-19                                                                                                                                                                                                                                                        |
+| **UAVs**                   | AKINCI, MQ-25, MQ-9, RQ-4, TB-001, TB-2, WZ-7                                                                                                                                                                                                                                                                                                      |
+| **AEW&C / Special Mission**| E-2, E-7, KJ-600                                                                                                                                                                                                                                                                                                                                  |
+| **Trainer & Light Attack** | EMB-314                                                                                                                                                                                                                                                                                                                                           |
+
+
+### 📊 Summary
+- **Total classes:** 96  
+- **Main groups:** Attack/Bomber, Transport, Helicopter, UAV, AEW&C, Trainer  
+
 
 ## 🛠 Methodology
 
