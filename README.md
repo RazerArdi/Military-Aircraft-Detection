@@ -135,9 +135,9 @@ The system features a **Tactical Command Dashboard** designed for clarity and si
 Visualizing the learning stability over epochs across all three architectures.
 
 | Custom CNN | MobileNetV2 | EfficientNetB0 |
-|------------|-------------|----------------|
+|:----------:|:-----------:|:--------------:|
 | ![Custom CNN History](Images/Custom_CNN_(Base)_history.png) | ![MobileNetV2 History](Images/MobileNetV2_Fine-Tuned_history.png) | ![EfficientNetB0 History](Images/EfficientNetB0_(Fine-Tuned)_history.png) |
-| *Moderate convergence with signs of overfitting.* | *Stable convergence and best generalization.* | *Failed to converge (flatline), indicating underfitting.* |
+| *Moderate convergence with signs of overfitting.* <br> **Overfitting** | *Stable convergence and best generalization.* <br> **Good fit** | *Failed to converge (flatline), indicating underfitting.* <br> **Underfitting** |
 
 ---
 
