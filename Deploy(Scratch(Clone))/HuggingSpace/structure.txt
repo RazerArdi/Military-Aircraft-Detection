@@ -1,0 +1,63 @@
+Folder PATH listing for volume MSI SPATIUM M480 PRO
+Volume serial number is 1C92-E16B
+D:.
+¦   .gitattributes
+¦   README.md
+¦   requirements.txt
+¦   structure.txt
+¦   
++---Images
+¦       Analysis_Confidence_Custom_CNN.png
+¦       Analysis_Confidence_EfficientNetB0.png
+¦       Analysis_Confidence_MobileNetV2.png
+¦       Analysis_Confused_Custom_CNN.png
+¦       Analysis_Confused_EfficientNetB0.png
+¦       Analysis_Confused_MobileNetV2.png
+¦       Analysis_Custom_CNN_Sample.png
+¦       Analysis_EfficientNetB0_Sample.png
+¦       Analysis_Hardest_Classes_Custom_CNN.png
+¦       Analysis_Hardest_Classes_EfficientNetB0.png
+¦       Analysis_Hardest_Classes_MobileNetV2.png
+¦       Analysis_Industrial_Tradeoff.png
+¦       Analysis_MobileNetV2_Sample.png
+¦       Custom_CNN_(Base)_confusion_matrix.png
+¦       Custom_CNN_(Base)_history.png
+¦       EfficientNetB0_(Fine-Tuned)_confusion_matrix.png
+¦       EfficientNetB0_(Fine-Tuned)_history.png
+¦       Final_Model_Comparison_Chart.png
+¦       First.jpg
+¦       Gallery_Custom_CNN.png
+¦       Gallery_EfficientNetB0.png
+¦       Gallery_MobileNetV2.png
+¦       MobileNetV2_Fine-Tuned_confusion_matrix.png
+¦       MobileNetV2_Fine-Tuned_history.png
+¦       P1.png
+¦       P2.png
+¦       Summary_Custom_CNN_history.png
+¦       Summary_EfficientNetB0_TL_history.png
+¦       Summary_MobileNetV2_TL_history.png
+¦       
++---Interface
+¦       streamlit_app.py
+¦       
++---Models
+¦       model_custom_cnn.h5
+¦       model_efficientnet_finetuned.h5
+¦       model_mobilenetv2_finetuned.h5
+¦       
++---Reports
+        Confused_Pairs_Custom_CNN.csv
+        Confused_Pairs_EfficientNetB0.csv
+        Confused_Pairs_MobileNetV2.csv
+        Custom_CNN_(Base)_report.csv
+        EfficientNetB0_(Fine-Tuned)_report.csv
+        Final_Model_Comparison.csv
+        Hardest_Classes_Custom_CNN.csv
+        Hardest_Classes_EfficientNetB0.csv
+        Hardest_Classes_MobileNetV2.csv
+        Industrial_Metrics_Summary.csv
+        MobileNetV2_Fine-Tuned_report.csv
+        Summary_Custom_CNN_report.csv
+        Summary_EfficientNetB0_TL_report.csv
+        Summary_MobileNetV2_TL_report.csv
+        
