@@ -146,11 +146,10 @@ Visualizing the learning stability over epochs across all three architectures.
 Visualizing misclassifications across all three models. MobileNetV2 shows the strongest diagonal (Correct Predictions).
 
 | Custom CNN | MobileNetV2 | EfficientNetB0 |
-|------------|-------------|----------------|
+|:----------:|:-----------:|:--------------:|
 | <img src="Images/Custom_CNN_(Base)_confusion_matrix.png" width="70%"> | <img src="Images/MobileNetV2_Fine-Tuned_confusion_matrix.png" width="70%"> | <img src="Images/EfficientNetB0_(Fine-Tuned)_confusion_matrix.png" width="70%"> |
 | *Figure: Confusion Matrix (Custom CNN).* | *Figure: Confusion Matrix (MobileNetV2).* | *Figure: Confusion Matrix (EfficientNetB0).* |
 
----
 
 ## 🚀 Installation & Setup
 
