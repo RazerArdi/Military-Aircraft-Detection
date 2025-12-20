@@ -1,4 +1,5 @@
-app/* linguist-documentation=false
-app/* linguist-vendored=false
+Interface/** linguist-detectable=true
+
+Deploy(Scratch(Clone))/HuggingSpace/Interfaces/** linguist-detectable=true
 
 *.someextension linguist-language=Python
